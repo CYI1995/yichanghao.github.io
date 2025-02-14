@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: yichanghao # the website title (if blank, full name will be used instead)
+title: yichanghao.github.io # the website title (if blank, full name will be used instead)
 first_name: Changhao
-middle_name: 
+middle_name: None
 last_name: Yi
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
